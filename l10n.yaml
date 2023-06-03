@@ -1,0 +1,7 @@
+# кодогенерацию запускать командой 'flutter gen-l10n'
+# synthetic-package: false
+arb-dir: l10n
+template-arb-file: app_ru.arb
+nullable-getter: false
+preferred-supported-locales: ru
+output-localization-file: app_localizations.dart

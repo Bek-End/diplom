@@ -1,0 +1,19 @@
+{
+  "finalQualifyingWork": "Final qualifying work",
+  "annotation": "The problem of free convection in a horizontal layer of an incombustible viscous liquid in a stationary regime is considered, where the lower boundary of the layer is heated, which leads to the appearance of a convective fluid flow in the layer, and heat transfer occurs at the upper free boundary of the layer according to the Fourier law.",
+  "familiarizeYourselfWithTheoreticalMaterials": "Familiarize yourself with theoretical materials",
+  "thanks": "Special thanks to Anisimova Irina Viktorovna",
+  "table": "Table",
+  "result": "Result",
+  "calculate": "Calculate",
+  "atmosphere": "Atmosphere",
+  "water": "Water",
+  "iterations": "Sweep method's iterations",
+  "horizontalDimension": "Horizontal dimension",
+  "heatingTemperature": "Heating temperature",
+  "ambientTemperature": "Ambient temperature",
+  "viscosity": "Viscosity",
+  "thermalDiffusivity": "Thermal diffusivity",
+  "thermalExpansion": "Thermal expansion",
+  "heatDissipation": "Heat dissipation"
+}
